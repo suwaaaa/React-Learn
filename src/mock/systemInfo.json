@@ -1,0 +1,6 @@
+{
+  "server": {
+      "serverName": "系统登录",
+      "loginBtnLable": "登录"
+    }
+}
