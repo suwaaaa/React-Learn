@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### git commit -a -m "example"
+
+# 要修改上一次提交的提交信息，可以使用 git commit --amend 命令
+
+git commit --amend
+如果你已经将提交推送到远程仓库，并且仍然想修改提交信息，你需要强制推送修改后的提交：
+git push --force
